@@ -59,12 +59,6 @@ secrets.json
 *.sql
 *.dump
 *.backup
-database/
-db/
-backups/
-*.db
-*.sqlite
-*.mdb
 
 # ===== LOGS E TEMPORÁRIOS =====
 *.log
