@@ -1,7 +1,6 @@
-package Services;
+package Controller.services;
 
-import model.Produto;
-import DataBase.DB;
+import model.Produto.Produto;
 
 import java.util.List;
 import java.util.Properties;

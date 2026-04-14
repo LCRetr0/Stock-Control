@@ -1,11 +1,11 @@
-package DataBase;
+package model.DataBase;
 
 import java.sql.*;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-import model.Produto;
+import model.Produto.Produto;
 
 
 public class DB {

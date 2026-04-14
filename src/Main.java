@@ -1,14 +1,14 @@
 
-import model.Produto;
-import DataBase.DB;
-import Services.NotificacaoService;
+import model.Produto.Produto;
+import model.DataBase.DB;
+import Controller.services.NotificacaoService;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
 import java.util.Scanner;
 
-import static DataBase.DB.buscarProdutosProximosVencimento;
-import static DataBase.DB.limparTodosProdutos;
+import static model.DataBase.DB.buscarProdutosProximosVencimento;
+import static model.DataBase.DB.limparTodosProdutos;
 
 public class Main {
 
