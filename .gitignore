@@ -55,10 +55,7 @@ secrets.json
 *.crt
 *.cer
 
-# ===== BANCO DE DADOS =====
-*.sql
-*.dump
-*.backup
+
 
 # ===== LOGS E TEMPORÁRIOS =====
 *.log
